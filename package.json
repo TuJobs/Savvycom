@@ -1,0 +1,13 @@
+{
+  "name": "test.js",
+  "version": "1.0",
+  "description": "1.0",
+  "main": "1",
+  "repository": "1",
+  "author": "1",
+  "license": "1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
